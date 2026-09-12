@@ -17,27 +17,27 @@
 ## 🎬 LIVE MOVING - 4 Images Step by Step
 
 ### 🟢 STEP 1: AUTHENTICATION - Token Paste
-<img src="step1-auth.jpg" width="380" style="border-radius:16px; border:2px solid #8A5CFF;" />
+<img src="step1-auth.jpeg" width="380" style="border-radius:16px; border:2px solid #8A5CFF;" />
 
 - Token Type: Access / EAT / JWT - Auto detect
 - ACCESS TOKEN field green border - Paste / Copy / Clear
 - Get token: https://zevricplayx.github.io/eat_token/
 
 ### 🟣 STEP 2: BIO EDITOR - Quick Colors
-<img src="step2-editor.jpg" width="380" style="border-radius:16px; border:2px solid #FF6B00;" />
+<img src="step2-editor.jpeg" width="380" style="border-radius:16px; border:2px solid #FF6B00;" />
 
 - QUICK COLORS: VIVID / DIM / EXTRA - 36 colors
 - Formatting: B Bold | I Italic | U Underline | S Strike | C Center
 - Text: [B][00FF00]HELLO EVERYONE ME HU ZEVRIC...
 
 ### 🟢 STEP 3: PREVIEW + UPDATE
-<img src="step3-preview.jpg" width="380" style="border-radius:16px; border:2px solid #00FF00;" />
+<img src="step3-preview.jpeg" width="380" style="border-radius:16px; border:2px solid #00FF00;" />
 
 - BIO PREVIEW Live badge green
 - Purple button: Update Bio
 
 ### ✅ STEP 4: SUCCESS - Bio Updated!
-<img src="step4-success.jpg" width="380" style="border-radius:16px; border:2px solid #8A5CFF;" />
+<img src="step4-success.jpeg" width="380" style="border-radius:16px; border:2px solid #8A5CFF;" />
 
 - NICKNAME: I AM Sunny
 - UID: 5309976559

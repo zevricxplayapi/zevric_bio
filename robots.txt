@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zevric-bio.vercel.app/sitemap.xml

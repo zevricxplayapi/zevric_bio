@@ -1,18 +1,26 @@
 {
+  "functions": {
+    "api/bio.js": { "maxDuration": 20 },
+    "api/eat-to-bio.js": { "maxDuration": 20 },
+    "api/jwt-to-bio.js": { "maxDuration": 20 },
+    "api/update-bio.js": { "maxDuration": 20 }
+  },
   "headers": [
     {
       "source": "/api/(.*)",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
         { "key": "Access-Control-Allow-Methods", "value": "GET, POST, OPTIONS" },
-        { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Authorization, X-Requested-With" }
+        { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Authorization, X-Requested-With" },
+        { "key": "Access-Control-Allow-Credentials", "value": "true" }
       ]
     },
     {
       "source": "/(.*)",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
-        { "key": "Access-Control-Allow-Methods", "value": "GET, POST, OPTIONS" }
+        { "key": "Access-Control-Allow-Methods", "value": "GET, POST, OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Authorization" }
       ]
     }
   ],
